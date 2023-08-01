@@ -4,6 +4,8 @@
 
 This repository contains the code and analysis for analyzing Fitbit fitness tracker data to deliver marketing and business solutions to WeFit and its subsidiaries using Microsoft Excel.
 
+### Dashboard Designed
+![image](https://github.com/oxerz8/Fitness-tracker-Data-Analysis/assets/23288977/83b23b05-5c75-48e5-8b6e-f8cddb25ae65)
 
 
 ## Table of Contents
@@ -45,7 +47,7 @@ To achieve the objectives mentioned above, the following steps were followed:
 
 ## Results
 
-The results of the analysis, including the identified smart device usage trends, potential customers for personalized diet plans, and optimized marketing plans, will be presented in the project report.
+The results of the analysis, including the identified smart device usage trends, potential customers for personalized diet plans, and optimized marketing plans, are presented in the MS Excel workbooks in the repository.
 
 ## Contributing
 
